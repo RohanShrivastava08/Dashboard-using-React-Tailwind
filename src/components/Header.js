@@ -10,7 +10,7 @@ const Header = () => (
     transition={{ type: 'spring', stiffness: 60 }}
   >
     {/* Logo or Title */}
-    <h1 className="text-3xl font-extrabold text-white">Dashboard</h1>
+    <h1 className="text-3xl font-extrabold text-white">DashboardX</h1>
     
     {/* Search Bar */}
     <div className="relative w-1/3">
