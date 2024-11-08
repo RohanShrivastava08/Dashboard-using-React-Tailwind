@@ -6,7 +6,7 @@ const Footer = () => (
   <div className="bg-gradient-to-r from-purple-800 to-indigo-900 text-white py-6">
     <div className="container mx-auto text-center space-y-4">
       {/* Footer Text */}
-      <p className="text-lg font-semibold">&copy; 2024 Company Name. All rights reserved.</p>
+      <p className="text-lg font-semibold">&copy; 2024 DashboardX. All rights reserved.</p>
       
       {/* Links with Hover Effect */}
       <div className="flex justify-center space-x-8">
