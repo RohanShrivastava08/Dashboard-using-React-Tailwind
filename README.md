@@ -1,4 +1,4 @@
-#  🚀 Interactive Dashboard with React & Tailwind CSS
+#  🚀 Interactive Dashboard using React & Tailwind CSS
 
 ![Screenshot (626)](https://github.com/user-attachments/assets/3d62318b-b771-42bd-bc17-9542b5b0c1fb)
 
